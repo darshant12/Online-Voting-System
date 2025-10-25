@@ -38,6 +38,8 @@ python app.py
 
 Open your browser at http://127.0.0.1:5000/ to access the app.
 
+To view the voting results, visit http://127.0.0.1:5000/results after casting some votes.
+
 ## Project structure
 
 ```
